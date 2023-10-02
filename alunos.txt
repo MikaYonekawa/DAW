@@ -1,0 +1,3 @@
+RA:123 Nome: mika Curso: Dsd
+RA:456 Nome: tania Curso: geo
+RA:789 Nome: sisi Curso: enf
