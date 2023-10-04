@@ -37,6 +37,7 @@ try {
     $mail->addAttachment('/tmp/image.jpg', 'new.jpg');*/    //Optional name
 
     //Content
+
     $mail->isHTML(true);                                  //Set email format to HTML
     $mail->Subject = 'Here is the subject';
     $mail->Body    = 'Mika <b>in bold!</b>';
